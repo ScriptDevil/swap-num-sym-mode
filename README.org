@@ -1,0 +1,11 @@
+* swap-num-sym-mode
+
+An Emacs minor-mode that swaps numbers with their corresponding symbols.
+
+While the mode is enabled, the symbols !@#$%^&*() will appear without
+shift and 123456789 will appear on pressing shift and the
+corresponding key.
+
+The idea behind this comes from
+
+https://twitter.com/ScriptDevil/status/458700381921353729
